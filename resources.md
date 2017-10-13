@@ -26,10 +26,10 @@ https://lofgren.house.gov/uploadedfiles/tor_letter.pdf
 - New Hampshire pilot Project wrap-up post: https://libraryfreedomproject.org/torexitspilotwrapup 
 
 
-##Technical resources
+## Technical resources
 - Questionnairre for libraries interested in running Tor exits: https://libraryfreedomproject.org/questionnaire/
 
-##Legal resources
+## Legal resources
 - Tor Project relay operation legal FAQ: https://www.torproject.org/eff/tor-legal-faq.html.en
 - Tor Project relay abuse response templates: https://trac.torproject.org/projects/tor/wiki/doc/TorAbuseTemplates
 - Sample DMCA response to ISPs: https://www.torproject.org/eff/tor-dmca-response.html
@@ -38,11 +38,8 @@ https://lofgren.house.gov/uploadedfiles/tor_letter.pdf
 - ALA DMCA resources, including information about Online Service Providers and DMCA: http://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/copyright/dmca/pdfs/dmcaprimer.pdf
 http://www.ala.org/advocacy/copyright/dmca
 
-##Sample text for Tor relay static website
+## Sample text for Tor relay static website
+
 Hello, 
 
 This library is running a Tor exit node in partnership with Library Freedom Project. You have likely reached this page because you looked up the IP address associated with the exit node. Tor is free software that helps people protect their privacy while using the internet. Tor exit nodes do not log any traffic, nor do they have any information about people who are using Tor, nor do they host any content. For more information, please see our FAQ/links.
-
-
-
-
